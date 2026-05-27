@@ -93,6 +93,28 @@ The Arduino sends **angle and distance data** to Processing IDE through serial c
 
 ---
 
+## Project Images
+
+### Hardware Setup
+![Hardware Setup](hardware_setup.jpeg)
+
+### Object Detection
+![Object Detection](object_detection.jpeg)
+
+### Radar Display
+![Radar Display](radar_display_screenshot.png)
+
+### Circuit Layout
+![Circuit Layout](top_view_circuit.jpeg)
+
+---
+
+## Project Demo
+
+A complete working demonstration of the Arduino Radar System is included in this repository.
+
+Video file: `project_demo.mp4`
+
 ## Future Improvements
 
 - Longer detection range
@@ -106,4 +128,4 @@ The Arduino sends **angle and distance data** to Processing IDE through serial c
 ## Author
 
 **Shivanshu**  
-B.Tech Electrical and Electronics Engineering (EEE)
+B.E Electrical and Electronics Engineering (EEE)
