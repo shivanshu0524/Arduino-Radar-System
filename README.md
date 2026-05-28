@@ -129,5 +129,5 @@ Video file: `project_demo.mp4`
 
 **Shivanshu**  
 ## Author
-Shivanshu  
+Shivanshu Kumar 
 B.E. Electrical and Electronics Engineering Student
